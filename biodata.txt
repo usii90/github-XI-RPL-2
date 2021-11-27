@@ -1,0 +1,7 @@
+Nama    : Lusi
+Kelas   : 11 RPL 2
+Alamat  : Kp. Cangkuang wetan 
+Umur    : 16th
+Sekolah : SMK Assalaam Bandung
+
+Note : saya sedang belajar awalan github
